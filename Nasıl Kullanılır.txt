@@ -1,0 +1,16 @@
+Program size ilk başlatıldığında iki seçenek sunar.
+1. Seçenek size şifre önerileri sunar.
+2. Seçenek ise sizin belirlediğiniz şifreleri kıyaslar ve hangisinin daha güçlü olduğunu belirtir.
+
+1.Seçenek Şifre Önerisi
+
+	1.1 Random Şifre
+ 		Bu seçenekte program size random güçlü bir şifre önerir.
+	1.2 Şifrenin içerisinde belirli kelimeler
+ 		Bu seçenekte şifrenin içerisinde geçmesini istediğiniz kelimeyi belirtebilirsiniz.
+
+2.Seçenek Şifre kıyaslama
+ Bu kısımda 6 karakterden uzun en az iki adet şifreyi chatgpt kullanarak en güçlü şifreyi size gösterir.
+
+-Talha Mert Erbir
+
